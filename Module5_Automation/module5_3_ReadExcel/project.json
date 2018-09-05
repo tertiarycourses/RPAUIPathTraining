@@ -1,0 +1,14 @@
+{
+  "name": "module5_ReadExcel",
+  "description": "Read Excel",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6780.29915",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

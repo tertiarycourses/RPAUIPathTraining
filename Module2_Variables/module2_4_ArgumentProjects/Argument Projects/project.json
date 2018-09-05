@@ -1,0 +1,14 @@
+{
+  "name": "Argument Projects",
+  "description": "Project",
+  "main": "Argument1.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6802.22462",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

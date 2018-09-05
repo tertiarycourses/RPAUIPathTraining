@@ -1,0 +1,14 @@
+{
+  "name": "module4_EventKeyboard",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6779.23766",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

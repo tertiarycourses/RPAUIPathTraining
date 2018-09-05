@@ -1,0 +1,14 @@
+{
+  "name": "module2_5_ExDataTable",
+  "description": "Read CSV to DataTable",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6802.26523",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

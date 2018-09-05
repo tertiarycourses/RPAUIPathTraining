@@ -1,0 +1,14 @@
+{
+  "name": "module3_3_foreach",
+  "description": "Project",
+  "main": "ForEachActivity.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6814.34532",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

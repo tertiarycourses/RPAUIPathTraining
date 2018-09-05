@@ -1,0 +1,14 @@
+{
+  "name": "module4_EventRecordUI_Demo1",
+  "description": "module4_EventRecordUI_Demo1",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6809.38528",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

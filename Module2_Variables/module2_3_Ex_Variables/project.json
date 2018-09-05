@@ -1,0 +1,14 @@
+{
+  "name": "module2_3_Ex_Variables",
+  "description": "module2_3_Ex_Variables",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6814.33447",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "module3_2_switch",
+  "description": "Project",
+  "main": "SwitchActivity.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6814.34429",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

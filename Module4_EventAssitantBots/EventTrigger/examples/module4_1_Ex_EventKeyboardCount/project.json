@@ -1,0 +1,14 @@
+{
+  "name": "module4_EventKeyboardCount",
+  "description": "Event Keyboard count",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6779.24478",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

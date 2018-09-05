@@ -1,0 +1,14 @@
+{
+  "name": "ReadCSVtoDataTable",
+  "description": "Read a csv file into datatable",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6757.20947",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
