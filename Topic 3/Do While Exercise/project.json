@@ -1,0 +1,43 @@
+{
+  "name": "module3_4_Ex_while",
+  "description": "module3_4_Ex_while",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.ComplexScenarios.Activities": "[1.0.2]",
+    "UiPath.Excel.Activities": "[2.8.5]",
+    "UiPath.Mail.Activities": "[1.8.5]",
+    "UiPath.MobileAutomation.Activities": "[20.4.1]",
+    "UiPath.Persistence.Activities": "[1.1.3]",
+    "UiPath.System.Activities": "[18.3.6897.22524]",
+    "UiPath.Testing.Activities": "[1.0.0]",
+    "UiPath.UIAutomation.Activities": "[18.3.6897.22543]",
+    "UiPath.UIAutomationNext.Activities": "[20.4.1]",
+    "UiPath.WebAPI.Activities": "[1.4.5]",
+    "UiPath.Word.Activities": "[1.4.2]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.6820.19925",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}

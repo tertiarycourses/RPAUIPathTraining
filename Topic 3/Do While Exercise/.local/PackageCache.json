@@ -1,0 +1,1459 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.ComplexScenarios.Activities",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.complexscenarios.activities/1.0.2\\lib/net461/UiPath.ComplexScenarios.Design.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.complexscenarios.activities\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/MailKit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/MimeKit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MobileAutomation.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\appium.webdriver/4.1.1\\lib/net45/Appium.Net.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\castle.core/4.3.1\\lib/net45/Castle.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\dotnetseleniumextras.pageobjects/3.11.0\\lib/net45/SeleniumExtras.PageObjects.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.client/5.2.7\\lib/net45/System.Net.Http.Formatting.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.core/5.2.7\\lib/net45/System.Web.Http.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.owin/5.2.7\\lib/net45/System.Web.Http.Owin.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin/2.0.2\\lib/net45/Microsoft.Owin.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.host.httplistener/2.0.2\\lib/net45/Microsoft.Owin.Host.HttpListener.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.hosting/2.0.2\\lib/net45/Microsoft.Owin.Hosting.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\owin/1.0.0\\lib/net40/Owin.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\prism.core/7.2.0.1422\\lib/net45/Prism.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.support/3.141.0\\lib/net45/WebDriver.Support.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.webdriver/3.141.0\\lib/net45/WebDriver.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities/20.4.1\\lib/net461/UiPath.MobileAutomation.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities/20.4.1\\lib/net461/UiPath.MobileAutomation.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities/20.4.1\\lib/net461/UiPath.MobileAutomation.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities/20.4.1\\lib/net461/UiPath.MobileAutomation.Runtime.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.platform/20.4.0\\lib/net461/UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Persistence.Activities",
+        "Version": "1.1.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities/1.1.3\\lib/net461/UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities/1.1.3\\lib/net461/UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities/1.1.3\\lib/net461/UiPath.Persistence.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities/1.1.3\\lib/net461/UiPath.Persistence.Orchestrator.Client.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "18.3.6897.22524"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities/18.3.6897.22524\\lib/net461/UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Testing.Activities",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\automapper/9.0.0\\lib/net461/AutoMapper.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.xaml.behaviors.wpf/1.0.1\\lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities/1.0.0\\lib/net461/UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities/1.0.0\\lib/net461/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities/1.0.0\\lib/net461/UiPath.Testing.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities/1.0.0\\lib/net461/UiPath.Testing.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities/1.0.0\\lib/net461/UiPath.Web.Client.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "18.3.6897.22543"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/System.Windows.Interactivity.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro.core/3.0.1\\lib/net45/Caliburn.Micro.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities/18.3.6897.22543\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Tesseract.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomationNext.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.platform/20.4.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.telemetry.client/1.1.51\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities/20.4.1\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities/20.4.1\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities/20.4.1\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Tesseract.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.4.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json/12.0.3\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\restsharp/106.6.10\\lib/net452/RestSharp.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities/1.4.5\\lib/net452/UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities\\1.4.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Word.Activities",
+        "Version": "1.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\docx/1.0.0.18\\lib/net40/DocX.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities/1.4.2\\lib/net461/UiPath.Word.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities/1.4.2\\lib/net461/UiPath.Word.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities/1.4.2\\lib/net461/UiPath.Word.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities\\1.4.2"
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "Appium.WebDriver": {
+      "Id": "Appium.WebDriver",
+      "Version": "4.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Castle.Core",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "DotNetSeleniumExtras.PageObjects",
+          "Item2": "[3.11.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[12.0.1, )"
+        },
+        {
+          "Item1": "Selenium.Support",
+          "Item2": "[3.141.0, )"
+        },
+        {
+          "Item1": "Selenium.WebDriver",
+          "Item2": "[3.141.0, )"
+        }
+      ]
+    },
+    "AutoMapper": {
+      "Id": "AutoMapper",
+      "Version": "9.0.0",
+      "Dependencies": []
+    },
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.5",
+      "Dependencies": []
+    },
+    "Caliburn.Micro": {
+      "Id": "Caliburn.Micro",
+      "Version": "3.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Caliburn.Micro.Core",
+          "Item2": "[3.0.1, 3.0.1]"
+        }
+      ]
+    },
+    "Caliburn.Micro.Core": {
+      "Id": "Caliburn.Micro.Core",
+      "Version": "3.0.1",
+      "Dependencies": []
+    },
+    "Castle.Core": {
+      "Id": "Castle.Core",
+      "Version": "4.3.1",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "DocX": {
+      "Id": "DocX",
+      "Version": "1.0.0.18",
+      "Dependencies": []
+    },
+    "DotNetSeleniumExtras.PageObjects": {
+      "Id": "DotNetSeleniumExtras.PageObjects",
+      "Version": "3.11.0",
+      "Dependencies": [
+        {
+          "Item1": "Selenium.WebDriver",
+          "Item2": "[3.10.0, )"
+        }
+      ]
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "interop.domino.dll": {
+      "Id": "interop.domino.dll",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.WebApi.Client": {
+      "Id": "Microsoft.AspNet.WebApi.Client",
+      "Version": "5.2.7",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.AspNet.WebApi.Core": {
+      "Id": "Microsoft.AspNet.WebApi.Core",
+      "Version": "5.2.7",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Client",
+          "Item2": "[5.2.7, )"
+        }
+      ]
+    },
+    "Microsoft.AspNet.WebApi.Owin": {
+      "Id": "Microsoft.AspNet.WebApi.Owin",
+      "Version": "5.2.7",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Core",
+          "Item2": "[5.2.7, 5.3.0)"
+        },
+        {
+          "Item1": "Microsoft.Owin",
+          "Item2": "[2.0.2, )"
+        },
+        {
+          "Item1": "Owin",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.AspNet.WebApi.OwinSelfHost": {
+      "Id": "Microsoft.AspNet.WebApi.OwinSelfHost",
+      "Version": "5.2.7",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Owin",
+          "Item2": "[5.2.7, 5.3.0)"
+        },
+        {
+          "Item1": "Microsoft.Owin.Hosting",
+          "Item2": "[2.0.2, )"
+        },
+        {
+          "Item1": "Microsoft.Owin.Host.HttpListener",
+          "Item2": "[2.0.2, )"
+        }
+      ]
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Owin": {
+      "Id": "Microsoft.Owin",
+      "Version": "2.0.2",
+      "Dependencies": [
+        {
+          "Item1": "Owin",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Owin.Host.HttpListener": {
+      "Id": "Microsoft.Owin.Host.HttpListener",
+      "Version": "2.0.2",
+      "Dependencies": []
+    },
+    "Microsoft.Owin.Hosting": {
+      "Id": "Microsoft.Owin.Hosting",
+      "Version": "2.0.2",
+      "Dependencies": [
+        {
+          "Item1": "Owin",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Owin",
+          "Item2": "[2.0.2, )"
+        }
+      ]
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "Microsoft.Xaml.Behaviors.Wpf": {
+      "Id": "Microsoft.Xaml.Behaviors.Wpf",
+      "Version": "1.0.1",
+      "Dependencies": []
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "12.0.3",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "Owin": {
+      "Id": "Owin",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "Prism.Core": {
+      "Id": "Prism.Core",
+      "Version": "7.2.0.1422",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.6.10",
+      "Dependencies": []
+    },
+    "Selenium.Support": {
+      "Id": "Selenium.Support",
+      "Version": "3.141.0",
+      "Dependencies": [
+        {
+          "Item1": "Selenium.WebDriver",
+          "Item2": "[3.141.0, )"
+        }
+      ]
+    },
+    "Selenium.WebDriver": {
+      "Id": "Selenium.WebDriver",
+      "Version": "3.141.0",
+      "Dependencies": []
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "System.IO.Abstractions": {
+      "Id": "System.IO.Abstractions",
+      "Version": "3.0.10",
+      "Dependencies": []
+    },
+    "System.Threading.Tasks.Dataflow": {
+      "Id": "System.Threading.Tasks.Dataflow",
+      "Version": "4.10.0",
+      "Dependencies": []
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "20.4.7422.14731",
+      "Dependencies": []
+    },
+    "UiPath.ComplexScenarios.Activities": {
+      "Id": "UiPath.ComplexScenarios.Activities",
+      "Version": "1.0.2",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.8.5",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary.Contracts": {
+      "Id": "UiPath.FormActivityLibrary.Contracts",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.8.5",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "interop.domino.dll",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.MobileAutomation.Activities": {
+      "Id": "UiPath.MobileAutomation.Activities",
+      "Version": "20.4.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[20.4.7422.14731, 20.4.7422.14731]"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[20.4.0, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "Appium.WebDriver",
+          "Item2": "[4.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.WebApi.OwinSelfHost",
+          "Item2": "[5.2.7, )"
+        },
+        {
+          "Item1": "Prism.Core",
+          "Item2": "[7.2.0.1422, )"
+        },
+        {
+          "Item1": "Selenium.WebDriver",
+          "Item2": "[3.141.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.6.0",
+      "Dependencies": []
+    },
+    "UiPath.Persistence.Activities": {
+      "Id": "UiPath.Persistence.Activities",
+      "Version": "1.1.3",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.FormActivityLibrary.Contracts",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.Platform": {
+      "Id": "UiPath.Platform",
+      "Version": "20.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "18.3.6897.22524",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.10, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "UiPath.Telemetry.Client": {
+      "Id": "UiPath.Telemetry.Client",
+      "Version": "1.1.51",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[4.10.0, )"
+        }
+      ]
+    },
+    "UiPath.Testing.Activities": {
+      "Id": "UiPath.Testing.Activities",
+      "Version": "1.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Xaml.Behaviors.Wpf",
+          "Item2": "[1.0.1, )"
+        },
+        {
+          "Item1": "AutoMapper",
+          "Item2": "[9.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[12.0.3, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.6.10, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "18.3.6897.22543",
+      "Dependencies": [
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Caliburn.Micro",
+          "Item2": "[3.0.1, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "UiPath",
+          "Item2": "[9.0.6893.27943, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomationNext.Activities": {
+      "Id": "UiPath.UIAutomationNext.Activities",
+      "Version": "20.4.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[20.4.7422.14731, 20.4.7422.14731]"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[20.4.0, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[2.0.3, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.1.51, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "2.0.3",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        }
+      ]
+    },
+    "UiPath.WebAPI.Activities": {
+      "Id": "UiPath.WebAPI.Activities",
+      "Version": "1.4.5",
+      "Dependencies": [
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.3.1, )"
+        }
+      ]
+    },
+    "UiPath.Word.Activities": {
+      "Id": "UiPath.Word.Activities",
+      "Version": "1.4.2",
+      "Dependencies": [
+        {
+          "Item1": "DocX",
+          "Item2": "[1.0.0.18, )"
+        }
+      ]
+    }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "Appium.WebDriver",
+        "Version": "4.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\appium.webdriver\\4.1.1\\lib\\net45\\Appium.Net.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\appium.webdriver\\4.1.1"
+    },
+    {
+      "Package": {
+        "Id": "AutoMapper",
+        "Version": "9.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\automapper\\9.0.0\\lib\\net461\\AutoMapper.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\automapper\\9.0.0"
+    },
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "5.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\avalonedit\\5.0.3"
+    },
+    {
+      "Package": {
+        "Id": "BouncyCastle",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\bouncycastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\bouncycastle\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "Caliburn.Micro",
+        "Version": "3.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\Caliburn.Micro.Platform.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\Caliburn.Micro.Platform.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\System.Windows.Interactivity.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Caliburn.Micro.Core",
+        "Version": "3.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro.core\\3.0.1\\lib\\net45\\Caliburn.Micro.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\caliburn.micro.core\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Castle.Core",
+        "Version": "4.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\castle.core\\4.3.1\\lib\\net45\\Castle.Core.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\castle.core\\4.3.1"
+    },
+    {
+      "Package": {
+        "Id": "ClosedXML",
+        "Version": "0.87.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\closedxml\\0.87.1"
+    },
+    {
+      "Package": {
+        "Id": "CsvHelper",
+        "Version": "2.13.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\csvhelper\\2.13.5"
+    },
+    {
+      "Package": {
+        "Id": "DocumentFormat.OpenXml",
+        "Version": "2.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+    },
+    {
+      "Package": {
+        "Id": "DocX",
+        "Version": "1.0.0.18"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\docx\\1.0.0.18\\lib\\net40\\DocX.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\docx\\1.0.0.18"
+    },
+    {
+      "Package": {
+        "Id": "DotNetSeleniumExtras.PageObjects",
+        "Version": "3.11.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\lib\\net45\\SeleniumExtras.PageObjects.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0"
+    },
+    {
+      "Package": {
+        "Id": "Extended.Wpf.Toolkit",
+        "Version": "2.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+    },
+    {
+      "Package": {
+        "Id": "Humanizer.Core",
+        "Version": "2.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "interop.domino.dll",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\interop.domino.dll\\1.0.0\\lib\\Interop.Domino.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\interop.domino.dll\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.WebApi.Client",
+        "Version": "5.2.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\lib\\net45\\System.Net.Http.Formatting.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.WebApi.Core",
+        "Version": "5.2.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\lib\\net45\\System.Web.Http.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.WebApi.Owin",
+        "Version": "5.2.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.7\\lib\\net45\\System.Web.Http.Owin.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.7"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.WebApi.OwinSelfHost",
+        "Version": "5.2.7"
+      },
+      "Assemblies": [],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.aspnet.webapi.owinselfhost\\5.2.7"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Exchange.WebServices",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Owin",
+        "Version": "2.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin\\2.0.2\\lib\\net45\\Microsoft.Owin.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin\\2.0.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Owin.Host.HttpListener",
+        "Version": "2.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.host.httplistener\\2.0.2\\lib\\net45\\Microsoft.Owin.Host.HttpListener.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.host.httplistener\\2.0.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Owin.Hosting",
+        "Version": "2.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.hosting\\2.0.2\\lib\\net45\\Microsoft.Owin.Hosting.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.owin.hosting\\2.0.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime",
+        "Version": "2.3.20"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.OLE.Interop",
+        "Version": "7.10.6071"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Xaml.Behaviors.Wpf",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Newtonsoft.Json",
+        "Version": "12.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\newtonsoft.json\\12.0.3"
+    },
+    {
+      "Package": {
+        "Id": "NPOI",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\npoi\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "Owin",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\owin\\1.0.0\\lib\\net40\\Owin.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\owin\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Prism.Core",
+        "Version": "7.2.0.1422"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\prism.core\\7.2.0.1422\\lib\\net45\\Prism.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\prism.core\\7.2.0.1422"
+    },
+    {
+      "Package": {
+        "Id": "RestSharp",
+        "Version": "106.6.10"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\restsharp\\106.6.10\\lib\\net452\\RestSharp.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\restsharp\\106.6.10"
+    },
+    {
+      "Package": {
+        "Id": "Selenium.Support",
+        "Version": "3.141.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.support\\3.141.0\\lib\\net45\\WebDriver.Support.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.support\\3.141.0"
+    },
+    {
+      "Package": {
+        "Id": "Selenium.WebDriver",
+        "Version": "3.141.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.webdriver\\3.141.0\\lib\\net45\\WebDriver.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\selenium.webdriver\\3.141.0"
+    },
+    {
+      "Package": {
+        "Id": "SharpZipLib",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\sharpziplib\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.IO.Abstractions",
+        "Version": "3.0.10"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+    },
+    {
+      "Package": {
+        "Id": "System.Threading.Tasks.Dataflow",
+        "Version": "4.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+    },
+    {
+      "Package": {
+        "Id": "System.ValueTuple",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\system.valuetuple\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath",
+        "Version": "20.4.7422.14731"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath\\20.4.7422.14731\\lib\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath\\20.4.7422.14731"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.ComplexScenarios.Activities",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.complexscenarios.activities\\1.0.2\\lib\\net461\\UiPath.ComplexScenarios.Design.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.complexscenarios.activities\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.FormActivityLibrary.Contracts",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.1.1\\lib\\net461\\UiPath.Form.ActivityLibrary.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\MailKit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\MimeKit.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mail.activities\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MobileAutomation.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1\\lib\\net461\\UiPath.MobileAutomation.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1\\lib\\net461\\UiPath.MobileAutomation.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1\\lib\\net461\\UiPath.MobileAutomation.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1\\lib\\net461\\UiPath.MobileAutomation.Runtime.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.mobileautomation.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Persistence.Activities",
+        "Version": "1.1.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3\\lib\\net461\\UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3\\lib\\net461\\UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3\\lib\\net461\\UiPath.Persistence.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3\\lib\\net461\\UiPath.Persistence.Orchestrator.Client.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.persistence.activities\\1.1.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Platform",
+        "Version": "20.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.platform\\20.4.0\\lib\\net461\\UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.platform\\20.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "18.3.6897.22524"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524\\lib\\net461\\UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.system.activities\\18.3.6897.22524"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Telemetry.Client",
+        "Version": "1.1.51"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.telemetry.client\\1.1.51\\lib\\net461\\TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.telemetry.client\\1.1.51"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Testing.Activities",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0\\lib\\net461\\UiPath.Orchestrator.Client.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0\\lib\\net461\\UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0\\lib\\net461\\UiPath.Testing.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0\\lib\\net461\\UiPath.Testing.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0\\lib\\net461\\UiPath.Web.Client.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.testing.activities\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "18.3.6897.22543"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6897.22543"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomationNext.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomationNext.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.uiautomationnext.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "2.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.vision\\2.0.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.4.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities\\1.4.5\\lib\\net452\\UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities\\1.4.5\\lib\\net452\\UiPath.Web.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities\\1.4.5\\lib\\net452\\UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.webapi.activities\\1.4.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Word.Activities",
+        "Version": "1.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities\\1.4.2\\lib\\net461\\UiPath.Word.Activities.Design.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities\\1.4.2\\lib\\net461\\UiPath.Word.Activities.dll",
+        "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities\\1.4.2\\lib\\net461\\UiPath.Word.dll"
+      ],
+      "Path": "C:\\Users\\Tertiary\\.nuget\\packages\\uipath.word.activities\\1.4.2"
+    }
+  ]
+}

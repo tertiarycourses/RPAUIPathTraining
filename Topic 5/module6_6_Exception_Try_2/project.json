@@ -1,0 +1,14 @@
+{
+  "name": "module6_Try_2",
+  "description": "module6 Try Catch 2",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6808.19694",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

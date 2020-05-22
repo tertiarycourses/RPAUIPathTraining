@@ -1,0 +1,14 @@
+{
+  "name": "module6_Exception_2",
+  "description": "Exception 2",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6808.19234",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
