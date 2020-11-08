@@ -1726,15 +1726,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tertiary\\.nuget\\packages\\": {}
+    "C:\\Users\\angch\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "My first RPA Project",
       "projectName": "My first RPA Project",
-      "projectPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\My first RPA Project\\.local",
-      "packagesPath": "C:\\Users\\Tertiary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\My first RPA Project\\.local"
+      "projectPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 1\\My first RPA Project\\.local",
+      "packagesPath": "C:\\Users\\angch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 1\\My first RPA Project\\.local"
     },
     "frameworks": {
       "net461": {
