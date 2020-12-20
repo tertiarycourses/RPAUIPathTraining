@@ -1,5 +1,5 @@
 # Robotic Process Automation with UIPath
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Robotic Process Automation with UIPath](https://www.tertiarycourses.com.sg/robotic-process-automation-with-uipath.html) course. 
 
